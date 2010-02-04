@@ -1,0 +1,1 @@
+tell application "Adium" to set the status message of every account to "Work sprint, be back in $time minutes."

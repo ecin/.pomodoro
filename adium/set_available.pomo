@@ -1,0 +1,4 @@
+do shell script "arch -i386 osascript -e \"tell application \\\"Adium\\\" 
+  set the status type of every account to available
+  set the status message of every account to \\\"\\\"
+end tell\""
